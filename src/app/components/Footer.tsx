@@ -9,10 +9,10 @@ const Footer = () => {
         <Link href="https://github.com/CloudyZeeshan" target="_blank" rel="noopener noreferrer" className="w-10 h-10">
           <Image src="/github.png" alt="GitHub" className="w-full h-full" width={300} height={300}/>
         </Link>
-        <Link href="https://www.linkedin.com/in/dosto-ki-dunya-taimoor-207568317/" target="_blank" rel="noopener noreferrer" className="w-10 h-10">
+        <Link href="/" target="_blank" rel="noopener noreferrer" className="w-10 h-10">
           <Image src="/linkedin.png" alt="LinkedIn" className="w-full h-full" width={300} height={300}/>
         </Link>
-        <Link href="https://www.facebook.com/taimoor.samiullahjan/" target="_blank" rel="noopener noreferrer" className="w-10 h-10">
+        <Link href="/" target="_blank" rel="noopener noreferrer" className="w-10 h-10">
           <Image src="/facebook.png" alt="Facebook" className="w-full h-full" width={300} height={300}/>
         </Link>
       </div>
@@ -22,3 +22,10 @@ const Footer = () => {
 };
 
 export default Footer;
+
+
+
+
+// https://www.linkedin.com/in/dosto-ki-dunya-taimoor-207568317
+
+// https://www.facebook.com/taimoor.samiullahjan
